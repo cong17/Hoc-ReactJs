@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AACA,gBACI,mBAAoB,CACpB,UACJ,CACA,KACI,cACJ","file":"main.d2da990e.chunk.css","sourcesContent":["\n.disabledbutton {\n    pointer-events: none;\n    opacity: 0.4;\n}\n.btn{\n    cursor: pointer;;\n}"]}
