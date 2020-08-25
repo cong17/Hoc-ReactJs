@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Vũ Mạnh Công",
+        "phone": "098765432",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Iron man",
+        "phone": "098765432",
+        "permission": 2
+    },
+    {
+        "id": 5,
+        "name": "QuickSliver",
+        "phone": "12314232566",
+        "permission": 3
+    },
+    {
+        "id": 4,
+        "name": "The chosen One",
+        "phone": "113",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Wonder Woman",
+        "phone": "098765432",
+        "permission": 2
+    }
+]
